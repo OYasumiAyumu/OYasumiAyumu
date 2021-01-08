@@ -5,7 +5,7 @@
 >##### [网页] Shigure Project —— 碧蓝航线大建模拟
 >##### [Windows小工具] Niizuki Project —— 批量文件重命名小工具
 >##### [Windows小工具] Hanazuki Project —— 宏按键小工具
->(有些仓库看不见？那是因为没写成型，还是Private状态)
+>(有些仓库看不见？那是因为没写成型，还是Private状态)  
 >不要停下来啊！(指开坑)
 ***
 #### 刁难我有用吗，我只是只猫啊。
